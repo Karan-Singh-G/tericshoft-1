@@ -1,0 +1,23 @@
+
+.mainshoesContainer{
+   border: 1px solid white;
+    height: 70vh;
+    width: 100%;
+}
+
+.shoes_container{
+    /* border: 1px solid rgb(219, 208, 208); */
+    width: 100%;
+    display: grid;
+    grid-template-columns:repeat(auto-fit,minmax(310px,max-content));
+  grid-gap:16px;
+  justify-content:center;
+  padding:intial;
+
+}
+.hightlight{
+    color: white;
+    font-size: 25px;
+ padding: 20px;
+    font-weight: bold;
+}

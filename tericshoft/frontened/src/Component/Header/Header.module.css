@@ -1,0 +1,17 @@
+.container{
+    /* border: 1px solid black; */
+    width: 60%;
+    height: 10vh;
+    margin: auto;
+    display: flex;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(199, 193, 193);
+    justify-content:space-around ;
+}
+.maincontainer{
+    width: 100%;
+}
+body{
+    background-color: rgb(46, 39, 39);
+}

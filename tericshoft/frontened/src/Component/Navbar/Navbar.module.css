@@ -1,0 +1,13 @@
+.container{
+    /* border: 1px solid black; */
+    height: 20vh;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+
+}
+.icons{
+   height: 15px;
+
+}

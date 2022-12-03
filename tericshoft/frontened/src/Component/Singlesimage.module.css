@@ -1,0 +1,18 @@
+
+
+.container{
+    display: flex;
+    width: 70%;
+    height: 100%;
+    border: 1px solid rgb(202, 187, 187);
+    justify-content: space-around;
+   
+}
+.images{
+ width: 110%;
+ height: 400px;
+}
+.container>div{
+    width: 20%;
+    border: 1px solid white;
+}
